@@ -60,7 +60,6 @@ namespace PraktikumWeek14_ErickGautama
                 {
                     if ((a[i] >= '!' && a[i] <= '/') || (a[i] >= ':' && a[i] <= '@')) isi += a[i];
                 }
-                    
                 label2.Text = isi;
             }
         }
